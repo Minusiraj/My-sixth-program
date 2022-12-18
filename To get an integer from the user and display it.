@@ -1,0 +1,14 @@
+# My-sixth-program
+
+Write a program to get an integer from the user and display it
+INPUT & OUTPUT FORMAT: 
+Input consist of 1 integer. Output consist of 1 integer.
+#include<iostream>
+using namespace std;
+int main()
+{
+    int a;
+    cin >> a;
+    cout << a;
+    return 0;
+}
